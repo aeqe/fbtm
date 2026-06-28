@@ -1,0 +1,12 @@
+// new lines (count = 0):
+
+
+
+// old lines (count = 6)
+
+__d("XVideoComposerInitUploadController",["XController"],(function(t,n,r,o,a,i){a.exports=n("XController").create("/video/composer/init_upload/",{target_id:{type:"FBID",required:!0},composer_entry_point_ref:{type:"Enum",required:!0,enumType:1},video_publisher_action_source:{type:"StringToNullableStringDict"}})}),null);
+__d("XVideoComposerInitUploadController",["XController"],(function(t,n,r,o,a,i){a.exports=n("XController").create("/video/composer/init_upload/",{target_id:{type:"FBID",required:!0},composer_entry_point_ref:{type:"Enum",required:!0,enumType:1},video_publisher_action_source:{type:"StringToNullableStringDict"}})}),null);
+__d("XVideoAssetPlayerController",["XController"],(function(t,n,r,o,a,i){a.exports=n("XController").create("/x/video_assets/video_player/",{video_asset_id:{type:"Int",required:!0},video_container_id:{type:"String",required:!0},show_controls:{type:"Bool",defaultValue:!1},start_muted:{type:"Bool",defaultValue:!1},width:{type:"Int",required:!0},height:{type:"Int",required:!0}})}),null);
+__d("XVideoAssetPlayerController",["XController"],(function(t,n,r,o,a,i){a.exports=n("XController").create("/x/video_assets/video_player/",{video_asset_id:{type:"Int",required:!0},video_container_id:{type:"String",required:!0},show_controls:{type:"Bool",defaultValue:!1},start_muted:{type:"Bool",defaultValue:!1},width:{type:"Int",required:!0},height:{type:"Int",required:!0}})}),null);
+__d("XVideoAssetPlayerController",["XController"],(function(t,n,r,o,a,i){a.exports=n("XController").create("/x/video_assets/video_player/",{video_asset_id:{type:"Int",required:!0},video_container_id:{type:"String",required:!0},show_controls:{type:"Bool",defaultValue:!1},start_muted:{type:"Bool",defaultValue:!1},width:{type:"Int",required:!0},height:{type:"Int",required:!0}})}),null);
+__d("XVideoAssetPlayerController",["XController"],(function(t,n,r,o,a,i){a.exports=n("XController").create("/x/video_assets/video_player/",{video_asset_id:{type:"Int",required:!0},video_container_id:{type:"String",required:!0},show_controls:{type:"Bool",defaultValue:!1},start_muted:{type:"Bool",defaultValue:!1},width:{type:"Int",required:!0},height:{type:"Int",required:!0}})}),null);
